@@ -26,8 +26,8 @@
 ```
 
 ```js
-  var _list = documnet.getElementById('list');
-  var length = _list.length;
+var _list = documnet.getElementById('list');
+var length = _list.length;
 
-  console.log(length);
+console.log(length);
 ```
