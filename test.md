@@ -32,4 +32,9 @@ var length = _list.length;
 console.log(length);
 ```
 
+```css
+a{display:inline-block;font-family:'noto sans',sans-serif;}
+mark{lint-height:1.5}
+```
+
 >강조표현<br> *italic* **bold** `mark`
